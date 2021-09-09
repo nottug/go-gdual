@@ -10,7 +10,7 @@ dual numbers is trivial, increasing to multivariate, nth order
 dual numbers rises in complexity quickly. It isn't very hard
 to find good examples of multivariate or nth order dual numbers,
 but together there is really only a single implementation 
-([Audi](github.com/darioizzo/audi/)), which takes it a step further
+([Audi](https://github.com/darioizzo/audi/)), which takes it a step further
 implementing the algebra of truncated polynomials. 
 
 This library is meant to be a starting point for generalized dual
